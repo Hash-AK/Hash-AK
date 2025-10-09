@@ -25,6 +25,3 @@ I'm Hash-AK! I'm a Linux user. I'm pretty bad at coding but still trying my best
 
 
 
-{{ wakatimeDoubleCategoryBar "💾 Languages:" wakatimeData.Languages "💼 Projects:" wakatimeData.Projects 5 }}
-
-
