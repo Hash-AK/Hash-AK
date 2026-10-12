@@ -24,4 +24,4 @@ I'm Hash-AK! I'm a Linux user. I'm a relatively beginner coder, I like to code i
 
 
 -->
-[![My Skills](https://skillicons.dev/icons?i=arch,arduino,bash,go,linux,mint,kali,neovim,vim,raspberrypi,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=arch,arduino,bash,go,typescript,linux,mint,kali,neovim,vim,raspberrypi,vscode)](https://skillicons.dev)
